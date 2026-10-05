@@ -1,0 +1,5 @@
+Plan_ID,Plan_Name,Monthly_Price,Annual_Price,Max_Users
+P001,Starter,29,290,5
+P002,Professional,79,790,25
+P003,Business,199,1990,100
+P004,Enterprise,499,4990,500
